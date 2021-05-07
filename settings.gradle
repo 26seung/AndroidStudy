@@ -1,0 +1,12 @@
+include ':ActionBarMenu'
+include ':AdapterView'
+include ':Tab'
+include ':Database'
+include ':Dialog'
+include ':Event'
+include ':app'
+rootProject.name = "AndroidStudy"
+include ':fragment'
+include ':location'
+include ':googlemap'
+include ':thread'
